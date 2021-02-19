@@ -11,13 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": ">=5.6.0",
-        "ext-json": "*"
-    },
-    "autoload": {
-        "psr-4": {
-            "LinJoe\\Addtran\\": "src/"
-        }
+        "php": ">=5.6.0"
     }
 }
 
