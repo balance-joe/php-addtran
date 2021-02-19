@@ -4,10 +4,10 @@ require_once 'src/PhoneRegion.php';
 require_once 'src/IpRegion.php';
 
 $back = new \addtran\BankCardInfo();
-//var_dump($back->setCartId(6236984980000019007)->getBankCardInfo());
+var_dump($back->setCartId(6236984981800029137)->getBankCardInfo());
 
 $phone = new \addtran\PhoneRegion();
-//var_dump($phone->setPhone(17630247125)->getRegion());
+var_dump($phone->setPhone(17630257215)->getRegion());
 
 $ip = new \addtran\IpRegion();
 
