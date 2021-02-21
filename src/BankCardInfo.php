@@ -1,7 +1,7 @@
 <?php
 
 
-namespace addtran;
+namespace Linqiao\Addtran;
 
 
 class BankCardInfo

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace addtran;
+namespace Linqiao\Addtran;
 
 /**
  * 手机号码归属地
