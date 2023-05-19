@@ -1,6 +1,6 @@
 {
     "name": "linqiao/php-addtran",
-    "description": "phone address ip address chinese bank number",
+    "description": "查询 手机号归属地/银行卡号信息/IP地址解析 phone address ip address chinese bank number",
     "license": "MIT",
     "homepage": "https://github.com/heng525140052/php-addtran",
     "authors": [
