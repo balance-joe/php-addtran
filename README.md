@@ -74,3 +74,6 @@ string(9) "郑州市"
 
 ### License
 [MIT license.](https://raw.githubusercontent.com/shitoudev/phone-location/master/LICENSE)
+
+### IP 数据说明
+`IpRegion` 已切换为使用仓库内 `src/ip2region_v4.xdb` 和 `src/ip2region_v6.xdb` 新版数据进行查询，不再依赖旧的 `src/ip2region.db`。
