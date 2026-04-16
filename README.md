@@ -7,7 +7,7 @@
 
 ### Installation
 ```
-composer require "linqiao/php-addtran:^0.1"
+composer require "linqiao/php-addtran"
 ```
 ### Use
 ```
